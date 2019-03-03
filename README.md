@@ -1,7 +1,9 @@
 # My Awesome Project
 This project's goal was to create a slot-machine with 3 reels, each with 5 options. The user is able to make a minimum and maximum bet, both of which have different payouts. Upon winning or losing, a message is presented.
 
-![screenshot of slot machine](images/slot-machine.png)
+![screenshot of slot machine](Images/Slot-machine.png)
+
+Demo-site: https://charlesdefarias.github.io/slot-machine/
 
 ## How It's Made:
 
